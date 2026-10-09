@@ -5,7 +5,7 @@
 	"name": "Avolites Titan 19",
 	"shortname": "titan-19",
 	"description": "AVOLITES TITAN 19 module for Companion",
-	"version": "0.0.0",
+	"version": "0.1.5",
 	"license": "MIT",
 	"repository": "git+https://github.com/bitfocus/companion-module-avolites-titan-19.git",
 	"bugs": "https://github.com/bitfocus/companion-module-avolites-titan-19/issues",
