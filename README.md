@@ -1,4 +1,4 @@
-# companion-module-[replace with module name]
+# companion-module-avolites-titan-19
 
 See [HELP.md](./companion/HELP.md) and [LICENSE](./LICENSE)
 
